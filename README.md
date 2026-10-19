@@ -75,12 +75,12 @@ Insight: Nancy Freehafer was the leading salesperson by revenue in the displayed
 
 # Business Recommendations
 Based on the dashboard findings, the following actions are recommended:
-	•	Regional growth: Investigate the factors driving the North’s strong revenue and identify opportunities to improve performance in the West.
-	•	Inventory planning: Monitor demand for Beverages and other high-volume categories to help maintain appropriate stock levels.
-	•	Product strategy: Review the revenue and profitability of Coffee, Curry Sauce, and other leading products.
-	•	Sales trend analysis: Investigate the factors behind monthly revenue fluctuations and prepare for periods of increased demand.
-	•	Payment optimization: Maintain reliable credit card processing while monitoring transaction costs across payment methods.
-	•	Salesperson evaluation: Compare revenue, order volume, and average revenue per order to gain a more complete understanding of individual sales performance.
+•	Regional growth: Investigate the factors driving the North’s strong revenue and identify opportunities to improve performance in the West.
+•	Inventory planning: Monitor demand for Beverages and other high-volume categories to help maintain appropriate stock levels.
+•	Product strategy: Review the revenue and profitability of Coffee, Curry Sauce, and other leading products.
+•	Sales trend analysis: Investigate the factors behind monthly revenue fluctuations and prepare for periods of increased demand.
+•	Payment optimization: Maintain reliable credit card processing while monitoring transaction costs across payment methods.
+•	Salesperson evaluation: Compare revenue, order volume, and average revenue per order to gain a more complete understanding of individual sales performance.
 
 
 # Dashboard Features
